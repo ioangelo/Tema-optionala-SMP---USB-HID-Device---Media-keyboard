@@ -17,12 +17,12 @@ Potentiometrul dual output a permis atat controlul volumului, cat si al led-uril
 Implementarea functionalitatilor specifice unei tastaturi s-a bazat pe utilizarea librariei HID-Project, care include functii suplimentare pentru replicarea comportamentului unui mouse / joystick / gamepad etc.
 
 Tastele / combinatiile de taste programate in cadrul MediaKeyboard.ino sunt urmatoarele:
-  playButton (D2) - porneste videoclipul / melodia
-  backButton (D3) - salt la videoclipul precedent / melodia anterioara
-  fwdButton (D4) - salt la videoclipul urmator / melodia urmatoare
-  muteButton (D5) - opreste sonorul;
-  brightUpButton (D6) - creste luminozitatea;
-  brightDownButton (D7) - scade luminozitatea;
-  winButton (D8) - minimizarea tuturor ferestrelor deschise (Windows + D);
-  copyButton (D9) - copiere (CTRL + C)
-  pasteButton (D10) - CTRL + V
+- playButton (D2) - porneste videoclipul / melodia
+- backButton (D3) - salt la videoclipul precedent / melodia anterioara
+- fwdButton (D4) - salt la videoclipul urmator / melodia urmatoare
+- muteButton (D5) - opreste sonorul;
+- brightUpButton (D6) - creste luminozitatea;
+- brightDownButton (D7) - scade luminozitatea;
+- winButton (D8) - minimizarea tuturor ferestrelor deschise (Windows + D);
+- copyButton (D9) - copiere (CTRL + C)
+- pasteButton (D10) - CTRL + V
