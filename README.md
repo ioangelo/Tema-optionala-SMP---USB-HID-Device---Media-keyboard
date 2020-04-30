@@ -25,4 +25,4 @@ Tastele / combinatiile de taste programate in cadrul MediaKeyboard.ino sunt urma
 
 Potentiometrul dual output a permis atat controlul volumului, cat si al led-urilor ce ilustreaza valoarea (variatia) acestuia in functie de maparea initiala.
 
-Implementarea functionalitatilor specifice unei tastaturi s-a bazat pe utilizarea librariei HID-Project, care include functii suplimentare pentru replicarea comportamentului unui mouse / joystick / gamepad etc. Sistemul de operare recunoaste dispozitivul drept un periferic din clasa asociata.
+Implementarea functionalitatilor specifice unei tastaturi s-a bazat pe utilizarea bibliotecii HID / HID-Project, care include functii suplimentare pentru replicarea comportamentului unui mouse / joystick / gamepad etc. Sistemul de operare recunoaste dispozitivul drept un periferic din clasa asociata.
