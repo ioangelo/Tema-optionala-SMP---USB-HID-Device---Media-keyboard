@@ -12,10 +12,6 @@ Componente necesare:
 - breadboard
 - mini breadboard
 
-Potentiometrul dual output a permis atat controlul volumului, cat si al led-urilor ce ilustreaza valoarea (variatia) acestuia in functie de maparea valorilor citite.
-
-Implementarea functionalitatilor specifice unei tastaturi s-a bazat pe utilizarea librariei HID-Project, care include functii suplimentare pentru replicarea comportamentului unui mouse / joystick / gamepad etc.
-
 Tastele / combinatiile de taste programate in cadrul MediaKeyboard.ino sunt urmatoarele:
 - playButton (D2) - porneste videoclipul / melodia
 - backButton (D3) - salt la videoclipul precedent / melodia anterioara
@@ -26,3 +22,7 @@ Tastele / combinatiile de taste programate in cadrul MediaKeyboard.ino sunt urma
 - winButton (D8) - minimizarea tuturor ferestrelor deschise (Windows + D);
 - copyButton (D9) - copiere (CTRL + C)
 - pasteButton (D10) - CTRL + V
+
+Potentiometrul dual output a permis atat controlul volumului, cat si al led-urilor ce ilustreaza valoarea (variatia) acestuia in functie de maparea initiala.
+
+Implementarea functionalitatilor specifice unei tastaturi s-a bazat pe utilizarea librariei HID-Project, care include functii suplimentare pentru replicarea comportamentului unui mouse / joystick / gamepad etc. Sistemul de operare recunoaste dispozitivul drept un periferic din clasa asociata.
