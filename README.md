@@ -1,5 +1,5 @@
 # Tema-optionala-SMP---USB-HID-Device---Media-keyboard
-Tema optionala presupune realizarea unui periferic USB pentru un sistem de calcul de tip PC. Abordarea aleasa pentru implementarea tastaturii a presupus utilizarea placutei de dezvoltare Arduino Leonardo (ce foloseste un microcontroller ATmega 32u4). Datorita comunicatiei USB, Arduino Leonardo reprezinta o solutie viabila in cadrul proiectelor de tip HID (Human Interface Device) cu interfata USB. 
+Tema optionala presupune realizarea unui periferic USB pentru un sistem de calcul de tip PC. Abordarea aleasa pentru implementarea tastaturii a presupus utilizarea placutei de dezvoltare Arduino Leonardo (ce foloseste un microcontroller ATmega 32u4). Datorita comunicatiei USB, Arduino Leonardo reprezinta o solutie viabila in cadrul proiectelor de tip HID (Human Interface Device) cu interfatare USB. 
 
 Componente necesare:
 
