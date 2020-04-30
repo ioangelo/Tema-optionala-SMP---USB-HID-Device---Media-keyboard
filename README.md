@@ -11,3 +11,7 @@ Componente necesare:
 - led-uri (x 3)
 - breadboard
 - mini breadboard
+
+Potentiometrul dual output a permis atat controlul volumului, cat si al led-urilor ce ilustreaza valoarea (variatia) acestuia.
+
+Implementarea functionalitatilor specifice unei tastaturi s-a bazat pe utilizarea librariei HID-Project, care include functii suplimentare pentru replicarea comportamentului unui mouse / joystick / gamepad etc.
